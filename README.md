@@ -1,3 +1,3 @@
 # og
 Organic Shop
-Learning Angular
+Learning Angular 7 framework 
